@@ -1,6 +1,7 @@
 # Calendario nativo con HTML5 & CSS3 🌟
 
-## Tecnologias usadas:
+# Tecnologias usadas:  
+[![My Skills](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
 
 <p>
   En este proyecto se muestra de manera visual, 
