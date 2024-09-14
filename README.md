@@ -10,7 +10,10 @@
   esta es solo una prueba
 </p>
 
-![imagen](imagen.png)
+![imagen](imagen.png)  
+
+# Vista movil
+![imagen](imagenMovil.jpg)
 
 ### Visita la web de: https://roadmap.sh/projects/datepicker-ui
 
